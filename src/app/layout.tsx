@@ -29,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <PlausibleProvider domain="demo.instant-market.com" customDomain="https://plausible.codewithadu.de" />
+        <PlausibleProvider domain="demo.instant-store.com" customDomain="https://plausible.codewithadu.de" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

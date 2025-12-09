@@ -1,5 +1,5 @@
 {
-  "name": "mini-store-dz-next15",
+  "name": "instant-store-dz-next15",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lucide-react": "^0.469.0",
-    "next": "15.1.3",
+    "next": "15.1.9",
     "next-plausible": "^3.12.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
