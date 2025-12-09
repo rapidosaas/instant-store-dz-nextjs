@@ -1,5 +1,5 @@
-<a href="https://demo.instant-market.com">
-  <h1 align="center">Mini Store</h1>
+<a href="https://instant-store.com">
+  <h1 align="center">Instant Store</h1>
 </a>
 
 <p align="center">
@@ -13,23 +13,7 @@
 
 ## Introduction
 
-Mini Store is an e-commerce solution for local business.
-
-## Documentation
-
-The doc will be available on my YT channel
-
-## Donations
-
-This software is free 
-
-But you can make a donation to the devs
-
-Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
-
-## Support
-
-You can join our little server on Discord https://discord.gg/EPM4rqpmcf
+Instant Store is an e-commerce solution for local business.
 
 ## Features
 
@@ -63,3 +47,11 @@ Here's how you can contribute:
 
 - Open an issue if you believe you've encountered a bug.
 - Make a pull request in the develop branch to add new features/make quality-of-life improvements/fix bugs.
+
+## Donations
+
+This software is free 
+
+But you can make a donation to the devs
+
+Please note that your donation is not an engagement of any of the parts, you are free, we are free, and we love free softwares
